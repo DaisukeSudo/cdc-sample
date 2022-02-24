@@ -1,1 +1,4 @@
-rootProject.name = 'demo'
+rootProject.name = 'cdc-sample'
+
+include 'sample_consumer'
+include 'sample_provider'
